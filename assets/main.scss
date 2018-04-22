@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+.info {
+  background-color:#EEEEEE;
+  font-family:Consolas,"Courier New",Monaco,"Lucida Console","Liberation Mono","DejaVu Sans Mono","Bitstream Vera Sans Mono";
+  font-style: italic;
+}
+pre.prettyprint{
+  width: auto;
+  overflow: auto;
+  padding: 10px;
+}

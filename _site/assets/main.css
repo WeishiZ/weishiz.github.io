@@ -123,20 +123,6 @@ pre {
     padding-left: 0; }
 
 /**
- * code related personal preferences
- */
-.info {
-  background-color:#EEEEEE;
-  font-family:Consolas,"Courier New",Monaco,"Lucida Console","Liberation Mono","DejaVu Sans Mono","Bitstream Vera Sans Mono";
-  font-style: italic;
-}
-pre.prettyprint{
-  width: auto;
-  overflow: auto;
-  padding: 10px;
-}
-
-/**
  * Wrapper
  */
 .wrapper {
@@ -517,3 +503,13 @@ table {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.info {
+  background-color: #EEEEEE;
+  font-family: Consolas,"Courier New",Monaco,"Lucida Console","Liberation Mono","DejaVu Sans Mono","Bitstream Vera Sans Mono";
+  font-style: italic; }
+
+pre.prettyprint {
+  width: auto;
+  overflow: auto;
+  padding: 10px; }
