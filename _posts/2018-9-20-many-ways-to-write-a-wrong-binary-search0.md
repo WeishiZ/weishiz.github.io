@@ -173,7 +173,7 @@ public int search(int[] nums, int target) {
 }
 ```
 
-### Implementation #4: A standardized template. :white_check_mark:
+### Implementation #4: A standardized template.
 1. Narrow down scope by moving left/right onto mid.
 2. Exit loop when left **is next to** right.
 3. Check both left and right, return accordingly.
