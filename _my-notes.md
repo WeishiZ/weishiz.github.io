@@ -1,7 +1,10 @@
-To deploy locally:
+Install dependencies:
+bundle install
+
+Deploy locally:
 bundle exec jekyll serve
 
-To deploy on github:
+Deploy on github:
 push to github repo
 
 
