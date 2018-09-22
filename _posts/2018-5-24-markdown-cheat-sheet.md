@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Markdown Reference"
-date:   2018-05-24 17:57:02 -0700
-categories: tools
+title: Markdown Reference
+date: '2018-05-24T17:57:02.002-07:00'
+author: Weishi Zeng
+tags: tools
 ---
 
 # Markdown Reference

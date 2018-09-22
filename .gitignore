@@ -19,4 +19,8 @@ build/
 .idea/workspace.xml
 .idea/tasks.xml
 
+# jekyll
+_site/
 .sass-cache/
+.jekyll-cache/
+.jekyll-metadata
