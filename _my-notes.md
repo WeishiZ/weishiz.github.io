@@ -5,7 +5,7 @@ Deploy locally:
 bundle exec jekyll serve
 
 Deploy on github:
-push to github repo
+git push https://github.com/WeishiZeng/weishizeng.github.io.git
 
 
 Todo:
