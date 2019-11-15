@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Binary Search Algorithm
+title: Many Ways to Write a Wrong Binary Search Algorithm
 date: '2018-09-21T15:43:02.002-07:00'
 author: Weishi Zeng
 tags: algorithm
 ---
 
-# Many ways to write a wrong binary search algorithm
+# Binary Search Algorithm
 ## Summary
 ### Variants
 * Variant 1:

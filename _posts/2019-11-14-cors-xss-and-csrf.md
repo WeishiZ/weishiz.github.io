@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cors, XSS and CSRF
+title: CORS, XSS and CSRF
 date: '2019-11-14T17:49:02.002-07:00'
 author: Weishi Zeng
 tags: engineering security
