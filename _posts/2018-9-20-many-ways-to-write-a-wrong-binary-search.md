@@ -6,7 +6,7 @@ author: Weishi Zeng
 tags: algorithm
 ---
 
-# Binary Search Algorithm
+# Many ways to write a wrong binary search algorithm
 ## Summary
 ### Variants
 * Variant 1:
