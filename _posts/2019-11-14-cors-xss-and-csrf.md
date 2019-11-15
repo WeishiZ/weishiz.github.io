@@ -37,8 +37,7 @@ Checkout examples [here](http://www.insecurelabs.org/task/Rule1?query=%3Cscript+
 ### XSS Exploits
 1. Attacker crafts a link that injects script to a vulnerable website.
 2. Victim click on the link. The injected javascript code is executed with the level of permission of the user.
-3. It can read cookies, make requests to the same origin, replace the html element, or send something to attacker's server.
-[![Youtube video](http://img.youtube.com/vi/t161cahMAZc/0.jpg)](https://youtu.be/t161cahMAZc?t=158)
+3. It can read cookies, make requests to the same origin, replace the html element, or send something to attacker's server. [Youtube video](https://youtu.be/t161cahMAZc?t=158) explained it with a little more details.
 
 ## CSRF
 
