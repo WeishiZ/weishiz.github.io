@@ -114,14 +114,6 @@ public int search(int[] nums, int target) {
 ```
 
 #### What's wrong:
-| # of Elements | Has Target? | Is target on the left? | ww | ww |
-| :-------------: |:-------------:| :-----:| :-----:| :-----:|
-| 1 | Y | - |  ww | ww |
-| 1 | N | - |  ww | ww |
-| 2 | Y | Y |  ww | ww |
-| 2 | Y | N |  ww | ww |
-| 2 | N | - |  ww | ww |
-
 
 | # of Elements | Has Target? | Is target on the left? | Example | Working?|
 | :---: | :---: | :---: | :---: | :---: |
@@ -424,14 +416,17 @@ return [3, 4].
 This can be solved by applying B-1 and B-2.
 
 ## Problem C: Find first element bigger than target.
+
 > Given [-1,0,3,5,9,12] and target value 3 or 4,
 return 5.
+
 ### Implementation #7: Figure out exact indices
 1. Narrow down scope by  
   a) moving left past mid, or  
   b) moving right onto mid.
 2. Exit loop when left **crosses** right.  
 3. Check if left is target and return accordingly.
+
 ```java
 public int search(int[] nums, int target) {
     int left = 0;
