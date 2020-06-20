@@ -78,8 +78,8 @@ public int search(int[] nums, int target) {
 ### Test Cases
 Any array of 3 or more will reduce to problem of array of 1 or 2. So we can draw a table below to cover all test cases.
 
-| # of Elements | Has Target? | Is target on the left?  |
-| -------------: |:-------------:| :-----:|
+| # of Elements | Has Target? | Is target on the left? |
+| :-------------: |:-------------:| :-----:|
 | 1 | Y | - |
 | 1 | N | - |
 | 2 | Y | Y |
@@ -114,9 +114,9 @@ public int search(int[] nums, int target) {
 ```
 
 #### What's wrong:
-| # of Elements | Has Target? | Is target on the left? | Example | Working? |
-| --- | :---: | :---: | :---: | :----: |
-| 2 | Y | N | [2,5], 5 |:x: |
+| # of Elements | Has Target? | Is target on the left? | Example | Working?|
+| :---: | :---: | :---: | :---: | :----: |
+| 2 | Y | N | [2,5], 5 | :x: |
 
 1. Exit while loop when left = right. But mid is not updated to (left + right) / 2.
 
