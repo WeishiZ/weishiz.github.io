@@ -7,7 +7,13 @@ tags: algorithm
 ---
 
 # Binary Search Algorithm
+
 ## Summary
+
+A good practice to go through all possible scenarios of a binary search and learn what can go wrong.
+
+Estimated time for practice: 2h
+
 ### Variants
 * Variant 1:
 looking for target itself
@@ -420,7 +426,7 @@ This can be solved by applying B-1 and B-2.
 > Given [-1,0,3,5,9,12] and target value 3 or 4,
 return 5.
 
-### Implementation #7: Figure out exact indices
+### Implementation #9: Figure out exact indices
 1. Narrow down scope by  
   a) moving left past mid, or  
   b) moving right onto mid.
