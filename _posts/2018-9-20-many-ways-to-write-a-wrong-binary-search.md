@@ -115,7 +115,7 @@ public int search(int[] nums, int target) {
 
 #### What's wrong:
 | # of Elements | Has Target? | Is target on the left? | Example | Working?|
-| :--------: | :--------: | :-------: | :--------: | :---------: |
+| :----------: |:-------------:| :-----:|:-----:|:-----:|
 | 2 | Y | N | [2,5], 5 | :x: |
 
 1. Exit while loop when left = right. But mid is not updated to (left + right) / 2.
