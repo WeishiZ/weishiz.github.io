@@ -86,3 +86,6 @@ need async flow: parseq
 
 
 parrelle vs concurrency
+
+
+implement a read write lock

@@ -18,7 +18,6 @@ python: no negative result
 
 
 
-
 Currying:
 Currying refers to the process of transforming a function with multiple arity into the same function with less arity.
 
