@@ -1,6 +1,7 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# Content
+Math notes: [/math](https://weishizeng.github.io/math)
 
-layout: home
----
+Engineering blog: [/eng-blog](https://weishizeng.github.io/eng-blog)
+
+# About
+Run, code, prove
