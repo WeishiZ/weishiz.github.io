@@ -1,26 +1,5 @@
-# OS generated files #
-######################
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# Generated files
-out/
-
-# Gradle files
-.gradle/
-build/
-
-# Intellij
-.idea/workspace.xml
-.idea/tasks.xml
-
-# jekyll
-_site/
-.sass-cache/
-.jekyll-cache/
+_site
+.sass-cache
+.jekyll-cache
 .jekyll-metadata
+vendor
